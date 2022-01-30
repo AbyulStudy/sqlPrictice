@@ -1,0 +1,2 @@
+SELECT MAX(DATETIME) from animal_ins order by DATETIME DESC;
+
